@@ -2,6 +2,10 @@
     "common": {
         "name": "admin",
         "title": "Admin",
+        "titleLang": {
+            "en": "Admin",
+            "ru": "Админка"
+        },
         "version": "4.2.2",
         "news": {
             "4.2.2": {
